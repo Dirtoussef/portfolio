@@ -1,0 +1,10 @@
+[build]
+  # Commande de build (utilisation de Quarto pour générer le site)
+command = "quarto render"
+  
+  # Dossier où le site généré sera publié
+publish = "_site"
+
+[build.environment]
+  # Spécifier la version de Quarto à installer
+QUARTO_VERSION = "1.2.0"  # Remplacez par la version souhaitée
