@@ -1,0 +1,6 @@
+[1,"==> quarto preview test.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: test.html\n  standalone: true\n  title-prefix: Youssef DIR\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  toc: true\n  css:\n    - styles.css\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  right:\n    - href: projets.qmd\n      text: Mes Projets\n  theme: Flatly\n  title: Test Video\n  \n"]
+[1,"Output created: _site\\test.html\n\nTerminating existing preview server...."]
+[1,"DONE\n\nPreparing to preview\n"]
+[1,"\nWatching files for changes\nBrowse at http://localhost:4841/test.html\n"]
+[1,"GET: /test.html\n"]

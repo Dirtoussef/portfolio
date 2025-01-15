@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mes Projets</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="navbar-left">
+      <div class="logo">Mes Projets</div>
+    </div>
+    <div class="navbar-right">
+      <a href="#projets">Projets</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </nav>
+
+  <div class="content-container">
+    <h1>Découvrez Mes Projets</h1>
+    <p>Voici une sélection de projets que j'ai réalisés, mettant en avant mes compétences en data science, développement web, et automatisation.</p>
+  </div>
+
+  
+    

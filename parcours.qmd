@@ -1,0 +1,58 @@
+---
+title: "parcours"
+author: "Kikia Dia"
+date: "2024-01-01"
+---
+
+## Parcours
+
+<div class="parcours-tab">
+  <div class="profile-container">
+    <div class="profile-header">
+      <h1>Kikia Dia</h1>
+      <h2>Computer Engineer</h2>
+    </div>
+
+    <div class="profile-content">
+      <div class="profile-section">
+        <p>
+          I am Kikia Dia, a Computer Engineering graduate, specializing in
+          <strong>Machine Learning</strong> and <strong>NLP</strong>, with a strong passion for data.
+          I am open to opportunities in AI development, data analysis, and problem-solving,
+          aiming to create impactful solutions.
+        </p>
+      </div>
+      <div class="profile-details">
+        <div class="detail-item">
+          <span class="detail-label">Age:</span>
+          <span class="detail-value">24 years old</span>
+        </div>
+        <div class="detail-item">
+          <span class="detail-label">Status:</span>
+          <span class="detail-value">Single</span>
+        </div>
+        <div class="detail-item">
+          <span class="detail-label">Driving License:</span>
+          <span class="detail-value">A1, B</span>
+        </div>
+        <div class="detail-item">
+          <span class="detail-label">Location:</span>
+          <span class="detail-value">Nantes, France</span>
+        </div>
+        <div class="detail-item">
+          <span class="detail-label">Nationality:</span>
+          <span class="detail-value">Senegalese</span>
+        </div>
+        <div class="detail-item">
+          <span class="detail-label">Region:</span>
+          <span class="detail-value">Ile-de-France, Paris</span>
+        </div>
+      </div>
+
+      <div class="profile-actions">
+        <a href="#" class="action-button">View Projects</a>
+        <a href="#" class="action-button">Contact Me</a>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,117 @@
+<body>
+
+
+
+
+<div class="content">
+
+
+<div class="card-container">
+  
+<div class="card">
+<div class="card-image" style="margin-bottom: 20px;">
+<iframe 
+id="html-diapo"
+width="100%" 
+height="400px"
+src="https://dirtoussef.github.io/Predicting_Price_Cars/R/auto.html">
+</iframe>
+<button id="fullscreen-btn" class="fullscreen-btn">Fullscreen</button>
+</div>
+<div class="tags">
+<span class="tag">RStudio</span>
+<span class="tag">Python</span>
+<span class="tag">SQL</span>
+</div>
+</div>
+
+
+
+
+
+
+<div class="card">
+<div class="card-image" style="margin-bottom: 20px;">
+<iframe width="100%" height="400px" 
+        src="https://www.youtube.com/embed/o9gVYMBb-V0" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+ </div>
+
+ <div class="tags-container">
+  <span class="tag">Streamlit</span>
+  <span class="tag">Python</span>
+  <span class="tag">SQL</span>
+</div>
+</div>
+
+
+<div class="card-text-top-left" id="top-left-text" style="font-size: 0.9em; line-height: 1.6em; text-align: left; padding: 10px; border-left: 4px solid #007BFF; background-color:rgb(12, 12, 12); border-radius: 5px;">
+  <strong style="color: #007BFF;">Educational Project</strong><br>
+  📊 Data scraping from Autoscout24,<br>
+  📈 Comprehensive data analysis<br>
+  and statistical insights,<br>
+  🤖 Predictive modeling using<br>
+  machine learning techniques<br>
+  (KNN, Random Forest, Boosting),<br>
+  📑 Presented with clear and<br>
+  structured visualizations.
+</div>
+
+<div class="card-text-top-right" id="top-right-text" style="font-size: 0.9em; line-height: 1.6em; width = 50%; text-align: left; padding: 10px; border-left: 4px solid #28A745; background-color:rgb(10, 10, 10); border-radius: 5px;">
+  <strong style="color: #28A745;">End-of-Study Internship</strong><br>
+  📊 Development of a KPI<br>
+  dashboardusing Streamlit<br> 
+  to provideclients with<br> 
+  detailed insightsinto<br> 
+  their business performance.<br>
+  💼 Focused on actionable results<br>
+  and user-friendly design.
+</div>
+
+<script>
+  // Fullscreen functionality
+  const fullscreenBtn = document.getElementById('fullscreen-btn');
+  const htmlDiapo = document.getElementById('html-diapo');
+
+  fullscreenBtn.addEventListener('click', () => {
+    if (htmlDiapo.requestFullscreen) {
+      htmlDiapo.requestFullscreen();
+    } else if (htmlDiapo.mozRequestFullScreen) { // Firefox
+      htmlDiapo.mozRequestFullScreen();
+    } else if (htmlDiapo.webkitRequestFullscreen) { // Chrome, Safari and Opera
+      htmlDiapo.webkitRequestFullscreen();
+    } else if (htmlDiapo.msRequestFullscreen) { // IE/Edge
+      htmlDiapo.msRequestFullscreen();
+    }
+  });
+</script>
+</div>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

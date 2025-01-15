@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Youssef DIR",
+    "section": "",
+    "text": "Fullscreen\n\n\n\nRStudio Python SQL\n\n\n\n\n\n\n\n\nStreamlit Python SQL\n\n\n\nEducational Project 📊 Data scraping from Autoscout24, 📈 Comprehensive data analysis and statistical insights, 🤖 Predictive modeling using machine learning techniques (KNN, Random Forest, Boosting), 📑 Presented with clear and structured visualizations.\n\n\nEnd-of-Study Internship 📊 Development of a KPI dashboardusing Streamlit to provideclients with detailed insightsinto their business performance. 💼 Focused on actionable results and user-friendly design."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nYoussef DIR\n",
+    "section": "",
+    "text": "Youssef DIR\n\n\nI am Youssef Dir, a recent graduate in Business Data Science. Passionate about data analysis, machine learning, and web development. I have experience working with Python, SQL, and RStudio, and I aim to apply my skills in real-world projects.\n\n\n🎂 24 years old 📍 IDF 🐙 GitHub 👔 LinkedIn ✉️ Contact Me\n\n\n\n\n\n\n\nTurning Data into Insights, Code into Innovation\n\n\n\n\n\n\n\n❮\n\n\n\n \n\n\nMaster’s Degree in Business Data Science\n\n\n\nUniversity of Tours\n\n\n\n\n\n2022 – 2024\n\n\n\nView Courses\n\n\n❯\n\n\n\n\n\n\nSkills\n\n\n\n\nLangages\n\n\n\n Python\n\n\n SQL\n\n\n R\n\n\n CSS-HTML\n\n\n\n\n\n\nOutils\n\n\n\n Power BI\n\n\n Git\n\n\n Quarto\n\n\n VBA\n\n\n\n\n\n\nTechnical Skills\n\n\n\nMicroeconomics\n\n\nEconomic Statistics\n\n\nProbabilistic Modeling\n\n\nPricing Strategies\n\n\n\n\n\n\nTechnical Skills\n\n\n\nAdaptability\n\n\nTime Management\n\n\nCreativity and Teamwork\n\n\nPricing Strategies\n\n\n\n\n\nExperience\n\n\n\n\n\nData Scientist Stage 2024\n\n\n\n\nAVANCI MVGROUP\n\n\nJanvier - Juin 2024\n\n\nMission 1 : Création et Gestion de Base de Données (SQL) Génération de données réalistes avec Faker, implémentation sur SQL Server et nettoyage des données pour analyses commerciales.\n\n\nMission 2 : Dashboards Dynamiques (Streamlit) Développement de visualisations interactives (cartes, graphiques) pour analyser la performance commerciale et la qualité des données.\n\n\nMission 3 : Analyse Prédictive et Modélisation Formation de modèles (Random Forest, XGBoost) pour prédire le comportement client, avec une analyse statistique et un échantillonnage des données.\n\n\n \n\n\n\n\n\nData analyst Finance\n\n\n\n\nPROBTP\n\n\nJuin - Sep 2023\n\n\n• Developement of a VBA script to automate the reading of PDF files, extract key information, and organize it into structured tables.\n• Development of a VBA-based tool to track SCPI (Société Civile de Placement Immobilier values, including purchase values, Realization values,subscription prices, etc."
+  },
+  {
+    "objectID": "about.html#prédiction-des-prix-des-voitures",
+    "href": "about.html#prédiction-des-prix-des-voitures",
+    "title": "Youssef DIR",
+    "section": "",
+    "text": "&lt;iframe src=\"https://dirtoussef.github.io/Predicting_Price_Cars/R/auto.html\" width=\"100%\" height=\"300px\" style=\"border:none;\"&gt;&lt;/iframe&gt;\n\n\n&lt;span class=\"tag\"&gt;RStudio&lt;/span&gt;\n&lt;span class=\"tag\"&gt;Python&lt;/span&gt;\n&lt;span class=\"tag\"&gt;Machine learning&lt;/span&gt;"
+  },
+  {
+    "objectID": "index.html#prédiction-des-prix-des-voitures",
+    "href": "index.html#prédiction-des-prix-des-voitures",
+    "title": "Mes Projets",
+    "section": "",
+    "text": "Voici une présentation de mon projet de prédiction des prix des voitures à l’aide du machine learning.\nVous pouvez voir la présentation ci-dessous :"
+  },
+  {
+    "objectID": "projets.html",
+    "href": "projets.html",
+    "title": "Projets",
+    "section": "",
+    "text": "Projets\n\n\n&lt;div class=\"card-image\"&gt;\n  &lt;img src=\"https://via.placeholder.com/600x300\" alt=\"Image de test\"&gt; \n&lt;/div&gt;\n&lt;div class=\"card-content\"&gt;\n  &lt;h3&gt;Nom du Projet&lt;/h3&gt;\n  &lt;p&gt;Description de votre projet ici.&lt;/p&gt;\n  &lt;a href=\"#\" class=\"card-button\"&gt;En savoir plus&lt;/a&gt;\n&lt;/div&gt;\n\n&lt;span class=\"tag\"&gt;Python&lt;/span&gt;\n&lt;span class=\"tag\"&gt;R&lt;/span&gt;\n&lt;span class=\"tag\"&gt;Machine Learning&lt;/span&gt;"
+  },
+  {
+    "objectID": "projets.html#prédiction-des-prix-des-voitures",
+    "href": "projets.html#prédiction-des-prix-des-voitures",
+    "title": "Mes Projets",
+    "section": "",
+    "text": "Ce projet utilise des techniques avancées d’analyse de données et de machine learning pour prédire les prix des voitures en fonction de leurs caractéristiques. Explorez les résultats dans le tableau et les graphiques interactifs ci-dessous !"
+  },
+  {
+    "objectID": "about.html#streamlit-dashboards-avanci-mvgroup",
+    "href": "about.html#streamlit-dashboards-avanci-mvgroup",
+    "title": "Youssef DIR",
+    "section": "Streamlit Dashboards AVANCI MVGROUP",
+    "text": "Streamlit Dashboards AVANCI MVGROUP\n\n\n\n\n\n\nStreamlit Python SQL"
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Youssef DIR",
+    "section": "",
+    "text": "&lt;!DOCTYPE html&gt;\n\n\n\n\n\nMes Projets\n\n\n\n\n\n\n  &lt;div class=\"logo\"&gt;Mes Projets&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"navbar-right\"&gt;\n  &lt;a href=\"#projets\"&gt;Projets&lt;/a&gt;\n  &lt;a href=\"#contact\"&gt;Contact&lt;/a&gt;\n&lt;/div&gt;\n\n\n&lt;h1&gt;Découvrez Mes Projets&lt;/h1&gt;\n&lt;p&gt;Voici une sélection de projets que j'ai réalisés, mettant en avant mes compétences en data science, développement web, et automatisation.&lt;/p&gt;"
+  },
+  {
+    "objectID": "about.html#prédiction-des-prix-des-voitures-et-streamlit-dashboards-avanci-mvgroup",
+    "href": "about.html#prédiction-des-prix-des-voitures-et-streamlit-dashboards-avanci-mvgroup",
+    "title": "Mes Projets",
+    "section": "",
+    "text": "&lt;h2&gt;Prédiction des prix des voitures&lt;/h2&gt;\n&lt;p&gt;\n  Ce projet utilise des techniques avancées d'analyse de données et de machine learning\n  pour prédire les prix des voitures en fonction de leurs caractéristiques. \n  Explorez les résultats dans le tableau et les graphiques interactifs ci-dessous !\n&lt;/p&gt;\n&lt;iframe src=\"https://dirtoussef.github.io/Predicting_Price_Cars/R/auto.html#/\" \n        width=\"100%\" height=\"300px\" style=\"border:none;\"&gt;&lt;/iframe&gt;\n\n\n\n&lt;h2&gt;Streamlit Dashboards AVANCI MVGROUP&lt;/h2&gt;\n&lt;iframe width=\"100%\" height=\"300px\" \n        src=\"https://www.youtube.com/embed/o9gVYMBb-V0\" \n        frameborder=\"0\" \n        allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" \n        allowfullscreen&gt;\n&lt;/iframe&gt;\n&lt;p&gt;\n  Découvrez la présentation vidéo de l'interface Streamlit développée pour AVANCI MVGROUP,\n  qui inclut des fonctionnalités avancées de traitement et de visualisation des données.\n&lt;/p&gt;"
+  },
+  {
+    "objectID": "about.html#streamlit-dashboards-avanci-mvgroup-1",
+    "href": "about.html#streamlit-dashboards-avanci-mvgroup-1",
+    "title": "Youssef DIR",
+    "section": "Streamlit Dashboards AVANCI MVGROUP",
+    "text": "Streamlit Dashboards AVANCI MVGROUP\n\n\n\n\n© 2024 Your Company. All rights reserved."
+  },
+  {
+    "objectID": "about.html#prediction-car-prices",
+    "href": "about.html#prediction-car-prices",
+    "title": "Youssef DIR",
+    "section": "Prediction Car Prices",
+    "text": "Prediction Car Prices\n\n\n\n\n\nRStudio Python SQL"
+  },
+  {
+    "objectID": "about.html#span-classstreamlit-dashboards",
+    "href": "about.html#span-classstreamlit-dashboards",
+    "title": "Youssef DIR",
+    "section": "<span class=“Streamlit Dashboards",
+    "text": "&lt;span class=“Streamlit Dashboards\n\n\n\n\n\n\nStreamlit Python SQL"
+  },
+  {
+    "objectID": "about.html#streamlit-dashboards",
+    "href": "about.html#streamlit-dashboards",
+    "title": "Youssef DIR",
+    "section": "Streamlit Dashboards",
+    "text": "Streamlit Dashboards\n\n\n\n\n\n\nStreamlit Python SQL"
+  },
+  {
+    "objectID": "about.html#formation",
+    "href": "about.html#formation",
+    "title": "Youssef DIR",
+    "section": "Formation",
+    "text": "Formation"
+  },
+  {
+    "objectID": "Parcours.html",
+    "href": "Parcours.html",
+    "title": "Youssef DIR",
+    "section": "",
+    "text": "&lt;div class=\"profile-header\"&gt;\n  &lt;h1&gt;Kikia Dia&lt;/h1&gt;\n  &lt;h2&gt;Computer Engineer&lt;/h2&gt;\n&lt;/div&gt;\n\n&lt;div class=\"profile-content\"&gt;\n  &lt;div class=\"profile-section\"&gt;\n    &lt;p&gt;\n      I am Kikia Dia, a Computer Engineering graduate, specializing in\n      &lt;strong&gt;Machine Learning&lt;/strong&gt; and &lt;strong&gt;NLP&lt;/strong&gt;, with a strong passion for data.\n      I am open to opportunities in AI development, data analysis, and problem-solving,\n      aiming to create impactful solutions.\n    &lt;/p&gt;\n  &lt;/div&gt;\n\n  &lt;div class=\"profile-details\"&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Age:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;24 years old&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Status:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;Single&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Driving License:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;A1, B&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Location:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;Nantes, France&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Nationality:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;Senegalese&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Region:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;Ile-de-France, Paris&lt;/span&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n\n  &lt;div class=\"profile-actions\"&gt;\n    &lt;a href=\"#\" class=\"action-button\"&gt;View Projects&lt;/a&gt;\n    &lt;a href=\"#\" class=\"action-button\"&gt;Contact Me&lt;/a&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "parcours.html",
+    "href": "parcours.html",
+    "title": "parcours",
+    "section": "",
+    "text": "&lt;div class=\"profile-header\"&gt;\n  &lt;h1&gt;Kikia Dia&lt;/h1&gt;\n  &lt;h2&gt;Computer Engineer&lt;/h2&gt;\n&lt;/div&gt;\n\n&lt;div class=\"profile-content\"&gt;\n  &lt;div class=\"profile-section\"&gt;\n    &lt;p&gt;\n      I am Kikia Dia, a Computer Engineering graduate, specializing in\n      &lt;strong&gt;Machine Learning&lt;/strong&gt; and &lt;strong&gt;NLP&lt;/strong&gt;, with a strong passion for data.\n      I am open to opportunities in AI development, data analysis, and problem-solving,\n      aiming to create impactful solutions.\n    &lt;/p&gt;\n  &lt;/div&gt;\n  &lt;div class=\"profile-details\"&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Age:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;24 years old&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Status:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;Single&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Driving License:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;A1, B&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Location:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;Nantes, France&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Nationality:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;Senegalese&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Region:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;Ile-de-France, Paris&lt;/span&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n\n  &lt;div class=\"profile-actions\"&gt;\n    &lt;a href=\"#\" class=\"action-button\"&gt;View Projects&lt;/a&gt;\n    &lt;a href=\"#\" class=\"action-button\"&gt;Contact Me&lt;/a&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "parcours.html#parcours",
+    "href": "parcours.html#parcours",
+    "title": "parcours",
+    "section": "",
+    "text": "&lt;div class=\"profile-header\"&gt;\n  &lt;h1&gt;Kikia Dia&lt;/h1&gt;\n  &lt;h2&gt;Computer Engineer&lt;/h2&gt;\n&lt;/div&gt;\n\n&lt;div class=\"profile-content\"&gt;\n  &lt;div class=\"profile-section\"&gt;\n    &lt;p&gt;\n      I am Kikia Dia, a Computer Engineering graduate, specializing in\n      &lt;strong&gt;Machine Learning&lt;/strong&gt; and &lt;strong&gt;NLP&lt;/strong&gt;, with a strong passion for data.\n      I am open to opportunities in AI development, data analysis, and problem-solving,\n      aiming to create impactful solutions.\n    &lt;/p&gt;\n  &lt;/div&gt;\n  &lt;div class=\"profile-details\"&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Age:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;24 years old&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Status:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;Single&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Driving License:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;A1, B&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Location:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;Nantes, France&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Nationality:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;Senegalese&lt;/span&gt;\n    &lt;/div&gt;\n    &lt;div class=\"detail-item\"&gt;\n      &lt;span class=\"detail-label\"&gt;Region:&lt;/span&gt;\n      &lt;span class=\"detail-value\"&gt;Ile-de-France, Paris&lt;/span&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n\n  &lt;div class=\"profile-actions\"&gt;\n    &lt;a href=\"#\" class=\"action-button\"&gt;View Projects&lt;/a&gt;\n    &lt;a href=\"#\" class=\"action-button\"&gt;Contact Me&lt;/a&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "index.html#parcours",
+    "href": "index.html#parcours",
+    "title": "parcours",
+    "section": "",
+    "text": "&lt;h1&gt;Youssef DIR&lt;/h1&gt;\n&lt;h2&gt;Computer Engineer&lt;/h2&gt;\n&lt;p&gt;\n  I am Youssef DIR, a Computer Engineering graduate, specializing in\n  &lt;strong&gt;Machine Learning&lt;/strong&gt; and &lt;strong&gt;NLP&lt;/strong&gt;, with a strong passion for data. I am open to\n  opportunities in AI development, data analysis, and problem-solving,\n  aiming to create impactful solutions.\n&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;\"Turning data into insights and solutions.\"&lt;/em&gt;&lt;/p&gt;"
+  }
+]

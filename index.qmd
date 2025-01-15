@@ -1,0 +1,257 @@
+<div class="profile-content">
+<div class="profile-section">
+<h1>Youssef DIR</h1>
+<p>
+I am Youssef Dir, a recent graduate in Business Data Science. Passionate about data analysis, machine learning, and web development. I have experience working with Python, SQL, and RStudio, and I aim to apply my skills in real-world projects.
+</p>
+
+<div class="tags-container">
+<span class="tag">🎂 24 years old</span>
+<span class="tag">📍 IDF</span>
+<a href="https://github.com/youssefdir" class="tag">🐙 GitHub</a>
+<a href="https://www.linkedin.com/in/youssefdir" class="tag">👔 LinkedIn</a>
+<a href="mailto:youssef@example.com" class="tag">✉️ Contact Me</a>
+</div>
+</div>
+
+<div class="profile-photo">
+<img src="img.jpeg" alt="Profile Photo" class="profile-photo">
+</div>
+
+<div class="gray-background">
+<div class="typing-effect">Turning Data into Insights, Code into Innovation</div> <!-- Typing effect -->
+</div>
+
+<div class="container">
+<div class="education-section"><!-- Adjusted height -->
+<button class="nav-button left-button">&#10094;</button> <!-- Flèche gauche -->
+<div class="education-item">
+<img id="education-logo" src="tours.png" alt="Logo School"> <!-- Ajout de l'ID -->
+<div>
+<h3 id="education-title">Master's Degree in Business Data Science</h3> <!-- Ajout de l'ID -->
+<p id="education-institution">University of Tours</p> <!-- Ajout de l'ID -->
+</div>
+<div class="date-location">
+<p id="education-period">2022 – 2024</p> <!-- Ajout de l'ID -->
+</div>
+
+
+<a href="https://mecen.univ-tours.fr/organisation-des-etudes" 
+target="_blank" 
+id="view-courses-btn" 
+class="view-courses-btn">View Courses</a>
+</div>
+<button class="nav-button right-button">&#10095;</button> <!-- Flèche droite -->
+</div>
+</div>
+
+<!-- Skills Section Title -->
+<h2 class="skills-section-title">Skills</h2>
+
+<!-- Section Skills -->
+ <div class="skills-card">
+<h2>Langages</h2>
+<ul class="skills-list">
+<li>
+<img src="python-logo.png" alt="Python" class="skill-icon">
+Python
+</li>
+<li>
+<img src="sql-logo.jpg" alt="SQL" class="skill-icon">
+SQL
+</li>
+<li>
+<img src="rstudio.png" alt="R" class="skill-icon">
+R
+</li>
+<li>
+<img src="csshtml.jpg" alt="CSShtml" class="skill-icon">
+CSS-HTML
+</li>
+</ul>
+</div>
+
+<!-- New Tools Card -->
+<div class="skills-card tools-card">
+<h2>Outils</h2>
+<ul class="skills-list">
+
+<li>
+<img src="powerbi.webp" alt="Power BI" class="skill-icon">
+Power BI
+</li>
+<li>
+<img src="github.png" alt="Git" class="skill-icon">
+Git
+</li>
+<li>
+<img src="quarto.png" alt="Quarto" class="skill-icon">
+Quarto
+</li>
+<li>
+<img src="vba.png" alt="VBA" class="skill-icon">
+VBA
+</li>
+</ul>
+</div>
+
+<!-- New Technical Skills Card -->
+<div class="skills-card technical-skills-card">
+<h2>Technical Skills</h2>
+<ul class="skills-list">
+<li>Microeconomics</li>
+<li>Economic Statistics</li>
+<li>Probabilistic Modeling</li>
+<li>Pricing Strategies</li>
+</ul>
+</div>
+
+
+
+
+
+<!-- New Technical Skills Card -->
+<div class="skills-card Softskills-card">
+<h2>Technical Skills</h2>
+<ul class="skills-list">
+<li>Adaptability</li>
+<li>Time Management</li>
+<li>Creativity and Teamwork</li>
+<li>Pricing Strategies</li>
+</ul>
+</div>
+
+<!-- Skills Section Title -->
+<h2 class="experiences-title">Experience</h2>
+
+
+<div class="card-container.stage">
+<div class="card-stage">
+<div class="card-title-stage">
+<h3>Data Scientist Stage 2024</h3>
+</div>
+<div class="card-content-stage">
+<h4>AVANCI MVGROUP</h4>
+<p class="date">Janvier - Juin 2024</p>
+<p class="description">
+<strong>Mission 1 : Création et Gestion de Base de Données (SQL)</strong><br>
+Génération de données réalistes avec Faker, implémentation sur SQL Server et nettoyage des données pour analyses commerciales.
+</p>
+<p class="description">
+<strong>Mission 2 : Dashboards Dynamiques (Streamlit)</strong><br>
+Développement de visualisations interactives (cartes, graphiques) pour analyser la performance commerciale et la qualité des données.
+</p>
+<p class="description">
+<strong>Mission 3 : Analyse Prédictive et Modélisation</strong><br>
+Formation de modèles (Random Forest, XGBoost) pour prédire le comportement client, avec une analyse statistique et un échantillonnage des données.
+</p>
+
+<div class="logos">
+<img src="sql-logo.jpg" alt="SQL" class="logo" />
+<img src="python-logo.png" alt="Python" class="logo" />
+</div>
+</div>
+
+<div class="card-stage small-card">
+<div class="card-title-stage">
+<h3>Data analyst Finance</h3>
+</div>
+<div class="card-content-stage">
+<h4>PROBTP</h4>
+<p class="date">Juin - Sep 2023</p>
+<p class="description">
+
+• Developement of a VBA script to automate the reading of PDF files, extract key information, and organize it into structured tables.  
+• Development of a VBA-based tool to track SCPI (Société Civile de Placement Immobilier values, including purchase values, 
+Realization values,subscription prices, etc. 
+</p>
+<div class="logos">
+<img src="vba.png" alt="Excel VBA" class="logo" />
+<img src="SAS.png" alt="SAS" class="logo" />
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+<script>
+// Données pour les diplômes
+const educationData = [
+  {
+    title: "Master's Degree in Business Data Science",
+    institution: "University of Tours",
+    period: "2022 – 2024",
+    logo: "tours.png" // Chemin du logo pour le Master
+  },
+  {
+    title: "Bachelor's Degree in Economics, Data",
+    institution: "University of Tours",
+    period: "2018 – 2022",
+    logo: "tours.png" // Chemin du logo pour le Bachelor
+  }
+];
+
+let currentIndex = 0; // Index actuel dans le tableau
+
+// Fonction pour mettre à jour l'affichage
+function updateEducation() {
+  const educationTitle = document.getElementById('education-title');
+  const educationInstitution = document.getElementById('education-institution');
+  const educationPeriod = document.getElementById('education-period');
+  const educationLogo = document.getElementById('education-logo');
+
+  // Mettre à jour le contenu avec les données actuelles
+  educationTitle.textContent = educationData[currentIndex].title;
+  educationInstitution.textContent = educationData[currentIndex].institution;
+  educationPeriod.textContent = educationData[currentIndex].period;
+  educationLogo.src = educationData[currentIndex].logo; // Mettre à jour le logo
+}
+
+// Gestionnaire d'événement pour la flèche gauche
+document.querySelector('.left-button').addEventListener('click', () => {
+  currentIndex = (currentIndex - 1 + educationData.length) % educationData.length; // Passer au précédent
+  updateEducation();
+});
+
+// Gestionnaire d'événement pour la flèche droite
+document.querySelector('.right-button').addEventListener('click', () => {
+  currentIndex = (currentIndex + 1) % educationData.length; // Passer au suivant
+  updateEducation();
+});
+
+// Initialisation : afficher le premier diplôme au chargement de la page
+updateEducation();
+
+
+
+function updateEducation() {
+  const educationTitle = document.getElementById('education-title');
+  const educationInstitution = document.getElementById('education-institution');
+  const educationPeriod = document.getElementById('education-period');
+  const educationLogo = document.getElementById('education-logo');
+
+  // Supprimer l'animation pour la relancer
+  educationTitle.classList.remove('slide-animation');
+  educationInstitution.classList.remove('slide-animation');
+
+  // Mettre à jour les données
+  educationTitle.textContent = educationData[currentIndex].title;
+  educationInstitution.textContent = educationData[currentIndex].institution;
+  educationPeriod.textContent = educationData[currentIndex].period;
+  educationLogo.src = educationData[currentIndex].logo;
+
+  // Relancer l'animation après un court délai
+  setTimeout(() => {
+    educationTitle.classList.add('slide-animation');
+    educationInstitution.classList.add('slide-animation');
+  }, 100);
+}
+
+
+</script>
