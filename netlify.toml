@@ -1,10 +1,7 @@
 [build]
-  # Commande d'installation pour Quarto
-  command = "curl -fsSL https://quarto.org/download/latest/ | bash && quarto render"
-  
-  # Dossier où le site généré sera publié
-  publish = "_site"
+command = "curl -fsSL https://quarto.org/download/1.2.0/quarto-1.2.0-linux.tar.gz | tar -xvz && quarto render"
+publish = "_site"
 
 [build.environment]
-  # Spécifier la version de Quarto à installer (optionnel si déjà pris en compte par l'installation)
-  QUARTO_VERSION = "1.2.0"
+QUARTO_VERSION = "1.2.0"
+
