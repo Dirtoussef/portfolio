@@ -5,7 +5,7 @@ website:
   title: "Youssef DIR"
   navbar:
     left:
-      - text: "Youssef DIR" 
+      
       
       - href: index.qmd
         text: Accueil
