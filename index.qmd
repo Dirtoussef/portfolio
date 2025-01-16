@@ -1,6 +1,5 @@
 <div class="profile-content">
 <div class="profile-section">
-<h1>Youssef DIR</h1>
 <p>
 I am Youssef Dir, a recent graduate in Business Data Science. Passionate about data analysis, machine learning, and web development. I have experience working with Python, SQL, and RStudio, and I aim to apply my skills in real-world projects.
 </p>
