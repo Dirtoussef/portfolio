@@ -1,5 +1,9 @@
 [build]
-command = "curl -fsSL https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.40/quarto-1.6.40-linux-rhel7-amd64.tar.gz | tar -xvz && quarto render"
+command = """
+curl -fsSL https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.40/quarto-1.6.40-linux-rhel7-amd64.tar.gz | tar -xz -C /tmp
+export PATH=/tmp/quarto-1.6.40/bin:$PATH
+quarto render
+"""
 publish = "_site"
 
 [build.environment]
