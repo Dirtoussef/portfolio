@@ -660,6 +660,8 @@ body {
   position: absolute; /* Change to absolute positioning */
   left: 50px; /* Adjust as needed */
   top: 1000px; /* Move the card higher */
+  font-size: 18px; /* Augmente la taille globale du texte */
+  color: #e4e4e4;
 }
 
 .skills-card:hover, .tools-card:hover, .technical-skills-card:hover, .soft-skills-card:hover {
@@ -762,6 +764,7 @@ body {
   position: absolute;
   right:800px;
   height:550px;
+  color: #e8e8e8;
 }
 
 
@@ -812,6 +815,7 @@ body {
   margin-top: -550px;
   position: relative;
   left: 800px;
+  color: #e8e8e8;
   
 }
 
