@@ -418,9 +418,9 @@ body {
   justify-content: center; /* Centre les éléments horizontalement */
   gap: 0px; /* Espacement entre l'image et le texte */
   position: relative;
-  margin-right: 90px;
-  margin-left: 60px ;
-  left: -850px;
+  margin-right: 50px;
+  margin-left: 50px ;
+  left: -700px;
   margin-top: 400px;
   height: 260px;
   
