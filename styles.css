@@ -811,7 +811,7 @@ body {
   
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  margin-top: -540px;
+  margin-top: -520px;
   position: relative;
   left: 800px;
   color: #e8e8e8;
