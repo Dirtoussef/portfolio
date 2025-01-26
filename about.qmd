@@ -70,7 +70,7 @@ src="https://dirtoussef.github.io/Predicting_Price_Cars/R/auto.html">
 <div class="tags-container">
 <span class="tag">Streamlit</span>
 <span class="tag">Python</span>
-<span class="tag">Data Analysis</span>
+<span class="tag">Data Mining</span>
 </div>
 </div>
 
