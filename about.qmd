@@ -39,6 +39,7 @@ src="https://dirtoussef.github.io/Predicting_Price_Cars/R/auto.html">
         allowfullscreen>
 </iframe>
  </div>
+ 
 
  <div class="tags-container">
   <span class="tag">Streamlit</span>
@@ -46,6 +47,39 @@ src="https://dirtoussef.github.io/Predicting_Price_Cars/R/auto.html">
   <span class="tag">SQL</span>
 </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-sentiment">
+<div class="card-image" style="margin-bottom: 20px;">
+<a href="https://worldcup-sentiment.streamlit.app/" target="_blank">
+<img src="francecup.png" alt="Streamlit App" width="100%" height="400px">
+</a>
+</div>
+<div class="tags-container">
+<span class="tag">Streamlit</span>
+<span class="tag">Python</span>
+<span class="tag">Data Analysis</span>
+</div>
+</div>
+
+
+
+
+
+
+
 
 
 <div class="card-text-top-left" id="top-left-text" style="font-size: 0.9em; line-height: 1.6em; text-align: left; padding: 10px; border-left: 4px solid #007BFF; background-color:rgb(12, 12, 12); border-radius: 5px;">
@@ -60,8 +94,21 @@ src="https://dirtoussef.github.io/Predicting_Price_Cars/R/auto.html">
   structured visualizations.
 </div>
 
+<!-- Nouvelle carte à gauche -->
+
+<div class="card-text-center-left" id="center-left-text" style="font-size: 0.9em; line-height: 1.6em; text-align: left; padding: 10px; border-left: 4px solid #28A745; background-color:rgb(12, 12, 12); border-radius: 5px; margin-top: 20px; margin-left: 0;">
+  <strong style="color: #28A745;">Sentiment Analysis Project</strong><br>
+  📊 1 million tweets from the World Cup 2018 (Kaggle),<br>
+  📈 Sentiment analysis,<br>
+  🤖 Visualization of tweet locations and sentiment by color,<br>
+  📑 Visualized using Streamlit, including wordcloud generation.
+</div>
+
+
+
+
 <div class="card-text-top-right" id="top-right-text" style="font-size: 0.9em; line-height: 1.6em; width = 50%; text-align: left; padding: 10px; border-left: 4px solid #28A745; background-color:rgb(10, 10, 10); border-radius: 5px;">
-  <strong style="color: #28A745;">End-of-Study Internship</strong><br>
+  <strong style="color:rgb(31, 49, 254);">End-of-Study Internship</strong><br>
   📊 Development of a KPI<br>
   dashboardusing Streamlit<br> 
   to provideclients with<br> 
@@ -70,6 +117,18 @@ src="https://dirtoussef.github.io/Predicting_Price_Cars/R/auto.html">
   💼 Focused on actionable results<br>
   and user-friendly design.
 </div>
+
+
+<svg class="arrow-left" width="200" height="100" style="position: absolute; left: 400px; top: 800px;">
+  <defs>
+    <marker id="arrowhead-left" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#00000" />
+    </marker>
+  </defs>
+  <line x1="0" y1="50" x2="150" y2="50" stroke="#000000" stroke-width="2" marker-end="url(#arrowhead-left)" />
+</svg>
+
+
 
 <script>
   // Fullscreen functionality
@@ -90,7 +149,6 @@ src="https://dirtoussef.github.io/Predicting_Price_Cars/R/auto.html">
 </script>
 </div>
 </body>
-
 
 
 

@@ -7,9 +7,9 @@ I am Youssef Dir, a recent graduate in Business Data Science. Passionate about d
 <div class="tags-container">
 <span class="tag">🎂 24 years old</span>
 <span class="tag">📍 IDF</span>
-<a href="https://github.com/youssefdir" class="tag">🐙 GitHub</a>
-<a href="https://www.linkedin.com/in/youssefdir" class="tag">👔 LinkedIn</a>
-<a href="mailto:youssef@example.com" class="tag">✉️ Contact Me</a>
+<a href="https://github.com/dirtoussef" class="tag">🐙 GitHub</a>
+<a href="https://www.linkedin.com/in/youssef-dir-798469160/" class="tag">👔 LinkedIn</a>
+<a href="youssefdir37@gmail.com" class="tag">✉️ Contact Me</a>
 </div>
 </div>
 
@@ -100,7 +100,7 @@ VBA
 <ul class="skills-list">
 <li>Microeconomics</li>
 <li>Economic Statistics</li>
-<li>Probabilistic Modeling</li>
+<li>Machine Learning</li>
 <li>Pricing Strategies</li>
 </ul>
 </div>

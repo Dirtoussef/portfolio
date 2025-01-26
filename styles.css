@@ -140,6 +140,28 @@ body {
   margin-right: 30px;
 }
 
+
+.card-sentiment {
+  flex: 1 1 calc(50% - 40px); /* 50% de la largeur, moins l'écart */
+  max-width: 600px; /* Limite la largeur de la carte */
+  border: 3px solid #ddd;
+  border-radius: 12px;
+  overflow: hidden;
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+  position: relative;
+  margin-left: auto; /* Déplacer à droite */
+  
+}
+
+
+.card-sentiment:hover {
+  transform: translateY(-10px);
+}
+
+
+
 .card:hover {
   transform: translateY(-10px);
 }
@@ -203,6 +225,29 @@ body {
   transition: all 0.3s ease; /* Smooth transition for hover effects */
 }
 
+.card-text-center-left {
+  position: absolute; /* Position absolue pour un placement précis */
+  left: 10px; /* Alignement à gauche de l'écran */
+  top: 700px; /* Ajustez cette valeur pour la position verticale (en dessous de la carte top-left) */
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  text-align: left;
+  padding: 10px;
+  border-left: 4px solid #28A745; /* Couleur de la bordure */
+  background-color: rgb(12, 12, 12); /* Couleur de fond */
+  border-radius: 5px;
+  width: 300px; /* Largeur de la carte */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre pour un effet visuel */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Animation au survol */
+  height:250;
+}
+
+.card-text-center-left:hover {
+  transform: translateY(-5px); /* Effet de levée au survol */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Ombre plus prononcée au survol */
+}
+
 /* Positioning for top-left text */
 .card-text-top-left {
   top: 200px;
@@ -215,6 +260,7 @@ body {
   right: 10px; /* Position en haut à droite */
   height: 250px;
 }
+
 
 /* Positioning for bottom-left text */
 .card-text-bottom-left {
@@ -865,4 +911,34 @@ body {
 
 .fullscreen-btn:active {
   transform: scale(0.95);
+}
+
+
+/* Style de la flèche animée */
+.arrow-sentiment-to-center {
+  position: absolute;
+  left: 400px; /* Ajustez cette valeur pour aligner la flèche horizontalement */
+  top: 800px; /* Ajustez cette valeur pour aligner la flèche verticalement */
+  width: 150px; /* Largeur de la flèche */
+  height: 2px; /* Épaisseur de la flèche */
+  background-color: #000000; /* Couleur de la flèche */
+  animation: arrowAnimation 1.5s infinite ease-in-out; /* Animation */
+}
+
+/* Animation de la flèche */
+@keyframes arrowAnimation {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(-20px); /* Déplacement vers la gauche */
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* Appliquer l'animation à la flèche gauche */
+.arrow-left {
+  animation: arrowAnimation 2s infinite;
 }
