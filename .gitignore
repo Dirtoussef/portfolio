@@ -3,3 +3,5 @@
 *.log
 *.tmp
 .quarto/_freeze/
+
+/.quarto/
