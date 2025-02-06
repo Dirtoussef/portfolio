@@ -5,18 +5,11 @@ website:
   title: "Youssef DIR"
   navbar:
     left:
-      
-      
       - href: index.qmd
         text: Accueil
       - href: about.qmd
         text: Projets
-        
-    # Supprimez la section "Mes Projets" de la barre de navigation
-    # right: 
-    #   - href: projets.qmd
-    #     text: Mes Projets
-
+   
 format:
   html:
     theme: Lux
