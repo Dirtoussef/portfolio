@@ -44,10 +44,11 @@
 <p>
 <br>
 I am Youssef Dir, a recent graduate in Business Data Science. Passionate about data analysis,
- machine learning, and web development. I have experience working with Python, SQL, and RStudio, 
+ machine learning, and web development. I have experience working with <span style="color:#00AEDB;"> Python </span>, <span style="color:#00AEDB;">SQL</span>, <span style="color:#00AEDB;">RStudio</span>,
+ <span style="color:#00AEDB;">Snowflake</span>,<span style="color:#00AEDB;">Power BI</span>
  and I aim to apply my skills in real-world projects.</p>
 
-  <h3 id="work-experiences">Work Experiences</h3>
+<h3 id="work-experiences">Work Experiences</h3>
 <img src="avanci.png" width="50" height="20" alt="Work Experience Image">
 <h4>Data Scientist - Internship (6 months)</h4>
 <ul>
@@ -55,6 +56,7 @@ I am Youssef Dir, a recent graduate in Business Data Science. Passionate about d
 <span style="color: #00AEDB;">Avanci Mvgroup</span> a consulting company specializing in marketing that helps its customers boost
 <br>their business with data-driven strategies and solutions.<br>
 <br>
+
 As a data scientist, here are the projects and tasks I have worked on : 
 <div class="timeline">
 <div class="mission">
@@ -63,7 +65,7 @@ As a data scientist, here are the projects and tasks I have worked on :
 <div class="description">
 <h4>Creation and Management of a Simulated Database - SQL </h4>
 <p>
-The generation of realistic data using the Faker library (Python) allows for the <br>
+The generation of realistic data using the <span style="color: #00AEDB;"> Faker library</span> (Python) allows for the <br>
 simulation of a dataset tailored for business analyses. This data can then be implemented <br>
 on SQL Server, where relationships betweentables are managed and the structure is optimized for <br>
 efficient access. Once the data is imported, a cleaning process is carried out to handle missing <br>
@@ -75,10 +77,10 @@ data integrity and facilitates its use in analytical and decision-making context
 <div class="circle"></div>
 <div class="description">
 <h4>Development of Dashboards and Data Visualization - Streamlit</h4>
-<p>The integration of visualization tools such as Plotly and Matplotlib allows for<br>
- the effective presentationof insights, including customer segmentation and business<br>
+<p>The integration of visualization tools such as <span style="color: #00AEDB;"> Plotly</span> and <span style="color: #00AEDB;"> Matplotlib</span>allows for<br>
+the effective presentation of insights, including customer segmentation and business<br>
 performance. Advanced visualizationsare created, such as interactive maps to analyze <br>
-regional audiences, charts for customer segmentation, andperformance tracking graphs.<br>
+regional audiences, charts for customer segmentation, and performance tracking graphs.<br>
 Additionally, a dedicated tab is implemented for data quality visualization,providing<br>
 a comprehensive view of dataintegrity and ensuring that any issues can be addressed <br>
 promptly for accurate decision-making.</p>
@@ -88,12 +90,14 @@ promptly for accurate decision-making.</p>
 <div class="circle"></div>
 <div class="description">
 <h4>Predictive analysis and advanced modeling </h4>
-The integration of visualization tools such as Plotly and Matplotlib enables the<br> 
-presentation of valuable insights, including segmentation and business performance.<br> 
-Advanced visualizations are developed, such asinteractive maps to analyze regional<br> 
-audiences, charts for customer segmentation, and performance tracking.Furthermore,<br> 
-a dedicated tab for data quality visualization is implemented, ensuring a clear overview of<br>
- data integrity and facilitating timely identification of issues for better decision-making.</p>
+statistical analysis and data cleaning, addressing missing values and detecting anomalies to<br> 
+ensure high-quality data. I identified key features by evaluating their relative importance in<br>
+predictions and used <span style="color: #00AEDB;">PCA</span> to detect redundancy between variables, optimizing feature selection.<br>
+To handle imbalanced classes, I implemented a sampling strategy to balance the dataset. I then<br>
+trained<span style="color: #00AEDB;"> Random Forest</span> and <span style="color: #00AEDB;">XGBoost models</span>  to predict customer<br> 
+ behaviors and characteristics,evaluating their performance using metrics like<span style="color: #00AEDB;"> accuracy </span> and <span style="color: #00AEDB;">AUC ROC.</span>
+
+</p>
 
 </li>
 <li>
@@ -106,7 +110,7 @@ a dedicated tab for data quality visualization is implemented, ensuring a clear 
 <br>
 <li class="company-descriptionbtp">
 
-<span style="color:rgb(0, 0, 0);">PROBTP</span> is the leading professional group in social protection and the 8th largest in health and welfare,<br>
+<span style="color:rgb(0, 0, 0);">PROBTP</span> is the leading professional group in <span style="color: #00AEDB;"> social protection</span> and the 8th largest in health and welfare,<br>
 serving businesses, craftsmen, employees, and retirees French insurer in the construction<br>
 andbuilding sectors.Health, welfare, insurance, savings, holidays, andretirement… her mission is to support their members<br> 
 atevery stage of their life. The company invests in multiple real estate funds in France, which include key financial<br>
@@ -125,7 +129,7 @@ and market conditions.
 <div class="description">
 <h4> reading of PDF files - Excel VBA</h4> 
 <p>
-Development of a VBA script to automate the reading of PDF files, extract key information and<br>
+Development of a <span style="color: #00AEDB;">VBA</span> script to automate the reading of PDF files, extract key information and<br>
 organize it into structured tables.
 </p>
 </div>
@@ -136,7 +140,7 @@ organize it into structured tables.
 <div class="description">
 <h4> SCPI Monitoring Tools </h4> 
 <p>
- Development of a VBA-based tool to track SCPI (Civil Real Estate Investment Company)<br> 
+ Development of a VBA-based tool to track <span style="color: #00AEDB;">SCPI</span>  (Civil Real Estate Investment Company)<br> 
  values, including purchase values, Realization values,subscription prices,etc. 
 </p>
 </li>
@@ -251,7 +255,7 @@ and automating graphics and tasks using VBA.<br>
 </div>
 <div class="article-details">
 <header class="article-title-wrapper">
-<h2 class="article-title-fifa">Analyse de sentiment des tweets world cup 2018</h2>
+<h2 class="article-title-fifa">Sentiment analysis of tweets from the 2018 World Cup</h2>
 </header>
 <div class="article-content">
 </div>
