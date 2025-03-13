@@ -1,256 +1,360 @@
-<div class="profile-content">
-<div class="profile-section">
-<p>
-I am Youssef Dir, a recent graduate in Business Data Science. Passionate about data analysis, machine learning, and web development. I have experience working with Python, SQL, and RStudio, and I aim to apply my skills in real-world projects.
-</p>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<link rel="stylesheet" href="votre-fichier-css.css">
 
-<div class="tags-container">
-<span class="tag">🎂 24 years old</span>
-<span class="tag">📍 IDF</span>
-<a href="https://github.com/dirtoussef" class="tag">🐙 GitHub</a>
-<a href="https://www.linkedin.com/in/youssef-dir-798469160/" class="tag">👔 LinkedIn</a>
-<a href="youssefdir37@gmail.com" class="tag">✉️ Contact Me</a>
-</div>
-</div>
+</head>
+<body>
+<main>
+
 
 <div class="profile-photo">
-<img src="img.jpeg" alt="Profile Photo" class="profile-photo">
+<img src="Book.jpeg" alt="Profile Photo">
+<div class="photo-text">Here's what I've done</div>
+
 </div>
 
-<div class="gray-background">
-<div class="typing-effect">Turning Data into Insights, Code into Innovation</div> <!-- Typing effect -->
-</div>
-
-<div class="container">
-<div class="education-section"><!-- Adjusted height -->
-<button class="nav-button left-button">&#10094;</button> <!-- Flèche gauche -->
-<div class="education-item">
-<img id="education-logo" src="tours.png" alt="Logo School"> <!-- Ajout de l'ID -->
-<div>
-<h3 id="education-title">Master's Degree in Business Data Science</h3> <!-- Ajout de l'ID -->
-<p id="education-institution">University of Tours</p> <!-- Ajout de l'ID -->
-</div>
-<div class="date-location">
-<p id="education-period">2022 – 2024</p> <!-- Ajout de l'ID -->
-</div>
-
-
-<a href="https://mecen.univ-tours.fr/organisation-des-etudes" 
-target="_blank" 
-id="view-courses-btn" 
-class="view-courses-btn">View Courses</a>
-</div>
-<button class="nav-button right-button">&#10095;</button> <!-- Flèche droite -->
 </div>
 </div>
 
-<!-- Skills Section Title -->
-<h2 class="skills-section-title">Skills</h2>
-
-<!-- Section Skills -->
- <div class="skills-card">
-<h2>Langages</h2>
-<ul class="skills-list">
-<li>
-<img src="python-logo.png" alt="Python" class="skill-icon">
-Python
-</li>
-<li>
-<img src="sql-logo.jpg" alt="SQL" class="skill-icon">
-SQL
-</li>
-<li>
-<img src="rstudio.png" alt="R" class="skill-icon">
-R
-</li>
-<li>
-<img src="csshtml.jpg" alt="CSShtml" class="skill-icon">
-CSS-HTML
-</li>
+<div class="profile-content">
+<div class="about-section">
+<div class="about-left">
+<h2>About</h2>
+<div class="work-experience-block">
+<ul>
+<li data-target="introduction">Introduction</li>
+<li data-target="work-experiences">Work Experiences</li>
+<li data-target="skills">Skills</li>
+<li data-target="education">Education</li>
+<li data-target="projects">Project</li>
+<!-- "Skills" apparaît deux fois, je conserve le premier pour cohérence -->
+<!-- <li data-target="skills">Skills</li> --> <!-- Commenté car doublon -->
+<li data-target="certification">Certification</li>
 </ul>
 </div>
+</div>
+<div class="about-right">
 
-<!-- New Tools Card -->
-<div class="skills-card tools-card">
-<h2>Outils</h2>
-<ul class="skills-list">
+ <h3 id="introduction">Introduction</h3>
 
-<li>
-<img src="powerbi.webp" alt="Power BI" class="skill-icon">
-Power BI
+<p>
+<br>
+I am Youssef Dir, a recent graduate in Business Data Science. Passionate about data analysis,
+ machine learning, and web development. I have experience working with Python, SQL, and RStudio, 
+ and I aim to apply my skills in real-world projects.</p>
+
+  <h3 id="work-experiences">Work Experiences</h3>
+<img src="avanci.png" width="50" height="20" alt="Work Experience Image">
+<h4>Data Scientist - Internship (6 months)</h4>
+<ul>
+<li class="company-description">
+<span style="color: #00AEDB;">Avanci Mvgroup</span> a consulting company specializing in marketing that helps its customers boost
+<br>their business with data-driven strategies and solutions.<br>
+<br>
+As a data scientist, here are the projects and tasks I have worked on : 
+<div class="timeline">
+<div class="mission">
+<div class="circle"></div>
+
+<div class="description">
+<h4>Creation and Management of a Simulated Database - SQL </h4>
+<p>
+The generation of realistic data using the Faker library (Python) allows for the <br>
+simulation of a dataset tailored for business analyses. This data can then be implemented <br>
+on SQL Server, where relationships betweentables are managed and the structure is optimized for <br>
+efficient access. Once the data is imported, a cleaning process is carried out to handle missing <br>
+values, detectinconsistencies, and prepare the data for in-depth exploratoryanalysis. This ensures <br>
+data integrity and facilitates its use in analytical and decision-making contexts.</p>
+</div>
+</div>
+<div class="mission">
+<div class="circle"></div>
+<div class="description">
+<h4>Development of Dashboards and Data Visualization - Streamlit</h4>
+<p>The integration of visualization tools such as Plotly and Matplotlib allows for<br>
+ the effective presentationof insights, including customer segmentation and business<br>
+performance. Advanced visualizationsare created, such as interactive maps to analyze <br>
+regional audiences, charts for customer segmentation, andperformance tracking graphs.<br>
+Additionally, a dedicated tab is implemented for data quality visualization,providing<br>
+a comprehensive view of dataintegrity and ensuring that any issues can be addressed <br>
+promptly for accurate decision-making.</p>
+</div>
+</div>
+<div class="mission">
+<div class="circle"></div>
+<div class="description">
+<h4>Predictive analysis and advanced modeling </h4>
+cThe integration of visualization tools such as Plotly and Matplotlib enables the<br> 
+presentation of valuable insights, including segmentation and business performance.<br> 
+Advanced visualizations are developed, such asinteractive maps to analyze regional<br> 
+audiences, charts for customer segmentation, and performance tracking.Furthermore,<br> 
+a dedicated tab for data quality visualization is implemented, ensuring a clear overview of<br>
+ data integrity and facilitating timely identification of issues for better decision-making.</p>
+
 </li>
 <li>
-<img src="github.png" alt="Git" class="skill-icon">
-Git
+ 
+ <div class="experience-item">
+<img src="probtp.png" alt="PROBTP Logo">
+<div class="experience-content">
+<h4>Data Analyst - Internship (3 months)</h4>
+<ul>
+<br>
+<li class="company-descriptionbtp">
+
+<span style="color:rgb(0, 0, 0);">PROBTP</span> is the leading professional group in social protection and the 8th largest in health and welfare,<br>
+serving businesses, craftsmen, employees, and retirees French insurer in the construction<br>
+andbuilding sectors.Health, welfare, insurance, savings, holidays, andretirement… her mission is to support their members<br> 
+atevery stage of their life. The company invests in multiple real estate funds in France, which include key financial<br>
+indicators such as value of realization,value of subscription, and subscription price. The value of subscription is the price at<br> 
+which investors can purchase shares in the fund, including both the value of the assets (value of realization) and a premium for<br> 
+issuance, which covers additional costs like administrative and acquisition fees. The subscription price is the amount an investor<br> 
+pays to acquire one share in the fund, determined by the fund’s management, and can vary depending on the number of shares issued<br> 
+and market conditions.
 </li>
 <li>
-<img src="quarto.png" alt="Quarto" class="skill-icon">
-Quarto
+
+<div class="timeline">
+<div class="mission">
+<div class="circle"></div>
+
+<div class="description">
+<h4> reading of PDF files - Excel VBA</h4> 
+<p>
+Development of a VBA script to automate the reading of PDF files, extract key information and<br>
+organize it into structured tables.
+</p>
+</div>
+</div>
+
+<div class="mission">
+<div class="circle"></div>
+<div class="description">
+<h4> SCPI Monitoring Tools </h4> 
+<p>
+ Development of a VBA-based tool to track SCPI (Civil Real Estate Investment Company)<br> 
+ values, including purchase values, Realization values,subscription prices,etc. 
+</p>
 </li>
 <li>
-<img src="vba.png" alt="VBA" class="skill-icon">
-VBA
+
+
+<h3 id="skills">Skills</h3>
+
+<h4>Python</h4>
+<img src="python.png" class="skill-icon" alt="Work Experience Image">
+</div>
+<p>
+<span style="color:rgb(155, 157, 158);">Streamlit Proficiency:</span> Development and deployment of data-driven interactive applications.<br>
+<span style="color:rgb(155, 157, 158);">Data Manipulation:</span>  Skilled in Pandas and NumPy for data processing, and Parquet with SQLAlchemy for SQL database implementation.<br>
+<span style="color:rgb(155, 157, 158);">Data Visualization:</span>  Crafting advanced visualizations with Plotly and Seaborn.<br>
+<span style="color:rgb(155, 157, 158);">Dependency Management:</span>  Leveraging Poetry for dependency isolation and management, alongside containerization for application portability.<br>
+Web Scraping: Extracting web data using BeautifulSoup.<br>
+<span style="color:rgb(155, 157, 158);">Predictive Analysis:</span>  Applying SciPy and Seaborn for modeling and prediction.
+</p>
+
+
+<h4>Rstudio</h4>
+<img src="rstudio.png" class="icon-rstudio" alt="Work Experience Image">
+
+<span style="color:rgb(155, 157, 158);">Data Manipulation:</span> Proficiency in Tidyverse packages such as {dplyr}, {purrr}, and {stringr} for efficient data handling.<br>
+<span style="color:rgb(155, 157, 158);">Data Visualization:</span> Crafting advanced visualizations using {ggplot2} and {plotly}.<br>
+<span style="color:rgb(155, 157, 158);">Web Development:</span> Building modern, production-ready web applications with {shiny}.<br>
+<span style="color:rgb(155, 157, 158);">Machine Learning:</span> Predictive modeling with {tidymodels}.<br>
+<span style="color:rgb(155, 157, 158);">Exploratory and Factor Analysis:</span> Conducting PCA (Principal Component Analysis), CA (Correspondence Analysis),<br> 
+MCA (Multiple Correspondence Analysis), and MFDA (Multiple Factor Analysis of Mixed Data).<br>
+<span style="color:rgb(155, 157, 158);">Productivity Tools:</span> Leveraging {lintr}, {styler}, and {usethis} for code formatting, linting, and task automation.<br>
+<span style="color:rgb(155, 157, 158);">Sentiment Analysis:</span> Implementing sentiment analysis with dedicated packages (e.g., {tidytext}).<br>
+
+
+<h4>SQL - Mysql</h4>
+<img src="SQL.png" class="icon-rstudio" alt="Work Experience Image">
+
+<span style="color:rgb(155, 157, 158);"> Table Creation:</span> Proficiency in designing and creating SQL tables to structure data.<br>
+<span style="color:rgb(155, 157, 158);">Joins:</span> Expertise in using joins (INNER, LEFT, RIGHT, FULL) to combine and analyze relational data.
+
+
+<h4>Snowflake - Certification</h4>
+
+
+<img src="snowflake1.png" class="icon-snowflake1" alt="Snowflake Icon">
+<img src="snowflake2.png" class="icon-snowflake2" alt="Snowflake Icon">
+<img src="snowflake3.png" class="icon-snowflake3" alt="Snowflake Icon">
+<img src="snowflake4.png" class="icon-snowflake4" alt="Snowflake Icon">
+<img src="snowflake5.png" class="icon-snowflake5" alt="Snowflake Icon">
+<br>
+<br>
+
+
+
+<span style="color:rgb(155, 157, 158);">Data Warehousing Workshop:</span> Proficiency in databases, warehouses, SQL worksheets, and external stages for <br>
+data management and analysis.<br>
+<span style="color:rgb(155, 157, 158);">Data Engineering Workshop:</span> Proficiency in timezones, timestamp formats, CTAS, streams/CDC, tasks, JSON parsing,<br> 
+merge statements, window functions, dashboards, Snowpipe, and metadata management.<br> 
+<span style="color:rgb(155, 157, 158);">Data Application Builders Workshop:</span> Streamlit in Snowflake to build interactive data  
+applications, leveraging Python and pandas for data manipulation, and understands the basics of variables<br> 
+APIs, API keys, CLIs, and the SnowSQL CLI for efficient development and database operations.<br> 
+<span style="color:rgb(155, 157, 158);">Collaboration, Marketplace & Cost Estimation Workshopstrong:</span> strong foundation in SQL Basics, Intermediate SQL and  
+Block Scripting/Control-of-Flow, with expertise in Snowflake-specific features like COPY INTO, file formats, cost categories,<br>  deployments on Azure and GCP, 
+and leveraging the Snowflake Data Marketplace for data sharing.<br> 
+<span style="color:rgb(155, 157, 158);">Data Lake Workshop:</span> Proficiency in handling timezones and timestamp formats, CTAS statements,Snowflake  
+Streams/CDC, Tasks, and Snowpipe for continuous loading, alongside advanced SQL skills like parsing JSON with paths<br>  and casts,
+SQL Merge statements,window functions, and storing metadata in columns.
+
+
+
+<h4>Outil</h4>
+
+<span style="color:rgb(155, 157, 158);">Git - Gitlab: </span> A strong mastery of Git, with skills in version control, branching, merging, committing changes,  
+resolving conflicts, and collaborating on repositories<br>
+<span style="color:rgb(155, 157, 158);">Quarto: </span> creating websites, documenting packages, and presentations with dynamic reveal.js slideshows.<br>
+<span style="color:rgb(155, 157, 158);">Excel: </span>  proficient in mastering dynamic pivot tables and charts, managing dynamic lists and named ranges,<br> 
+and automating graphics and tasks using VBA.<br> 
+<span style="color:rgb(155, 157, 158);">PowerBi: </span> dashboards and KPIs to visualize and track key performance indicators effectively.
+
+<br>
+<br>
+
+<h3 id="projects">Projets</h3>
+
+
+<!-- Conteneur pour les cartes (pour permettre un alignement multiple si besoin) -->
+<div class="projects-container">
+<!-- Première carte -->
+<article class="article1-card">
+<div class="article-header">
+<img src="kpi.jpg" width="100%" height="100%" alt="Simulation de base de données" class="article-image-kpi">
+</div>
+<div class="article-details">
+<header class="article-title-wrapper">
+<h2 class="article-title">Dynamic Streamlit Dasboards E-commerce</h2>
+</header>
+<div class="article-content">
+</div>
+<footer class="article-footer">
+<span class="article-date">oct 1, 2024</span>
+<a href="https://www.youtube.com/watch?v=o9gVYMBb-V0&t=1s" target="_blank">
+<button class="article-button">Découvrir le Projet</button>
+</footer>
+</div>
+</article>  
+
+
+ <!-- Deuxième carte (exemple) -->
+<article class="article2-card">
+<div class="article-header">
+<img src="fifa.jpg" width="100%" height="100%" alt="Nouveau projet" class="article-image-fifa">
+</div>
+<div class="article-details">
+<header class="article-title-wrapper">
+<h2 class="article-title-fifa">Analyse de sentiment des tweets world cup 2018</h2>
+</header>
+<div class="article-content">
+</div>
+<footer class="article-footer">
+<span class="article-date">March 15, 2024</span>
+<a href="https://worldcup-sentiment.streamlit.app/" target="_blank">
+<button class="article-button">Découvrir le Projet</button>
+</footer>
+</div>
+</article>
+
+
+<article class="article3-card">
+<div class="article-header">
+<img src="img1.jpg" width="100%" height="100%" alt="Nouveau projet 3" class="article-image-cars">
+</div>
+<div class="article-details">
+<header class="article-title-wrapper">
+<h2 class="article-title-kpi">Predicting Car Prices with Data Scraped from AutoScout24</h2>
+</header>
+<div class="article-content"></div>
+<footer class="article-footer">
+<span class="article-date">January 1, 2024</span>
+<a href="https://dirtoussef.github.io/Predicting_Price_Cars/R/auto.html#/" target="_blank">
+<button class="article-button">Découvrir le Projet</button>
+</a>
+</footer>
+</div>
+</article>
+<br>
+</div>
+<br>
+ <h3 id="education">Education</h3><br>
+<img src="univ_tours.png" class ="img-univ"  alt="University Logo">
+
+<div class="timeline">
+<div class="mission">
+<div class="circle"></div>
+<div class="description">
+<h4>Master 2 Business Data Science <span class="article-date">(2022-2024)</span></h4> 
+
+<p>Big Data,Data Mining, Maching learning ,Web scraping               
+Exploratory Data Analysis  ( Python , Rstudio ),PCA, MCA, MFDA,
+Microeconometrics , APIS , Pricing.
+SQL Data Management. 
+<p/>
+</div>
+</div>
+<div class="timeline">
+<div class="mission">
+<div class="circle"></div>
+<div class="description">
+<h4>Licence 2 applied economics <span class="article-date">(2018-2022)</span></h4> 
+
+<p>Econometrics,  Statistics , Probability , R , Python ,                    
+Microeconomics , Excel (VBA ) ,HTML - CSS , Macroeconomics , Mathematiques.
+<p/>
 </li>
-</ul>
-</div>
-
-<!-- New Technical Skills Card -->
-<div class="skills-card technical-skills-card">
-<h2>Technical Skills</h2>
-<ul class="skills-list">
-<li>Microeconomics</li>
-<li>Economic Statistics</li>
-<li>Machine Learning</li>
-<li>Pricing Strategies</li>
-</ul>
-</div>
-
-
-
-
-
-<!-- New Soft Skills Card -->
-<div class="skills-card Softskills-card">
-<h2>Soft Skills</h2>
-<ul class="skills-list">
-<li>Adaptability</li>
-<li>Time Management</li>
-<li>Creativity and Teamwork</li>
-<li>Pricing Strategies</li>
-</ul>
-</div>
-
-<!-- Skills Section Title -->
-<h2 class="experiences-title">Experience</h2>
-
-
-<div class="card-container.stage">
-<div class="card-stage">
-<div class="card-title-stage">
-<h3>Data Scientist Stage 2024</h3>
-</div>
-<div class="card-content-stage">
-<h4>AVANCI MVGROUP</h4>
-<p class="date">Janvier - Juin 2024</p>
-<p class="description">
-<strong>Mission 1 : Création et Gestion de Base de Données (SQL)</strong><br>
-Génération de données réalistes avec Faker, implémentation sur SQL Server et nettoyage des données pour analyses commerciales.
-</p>
-<p class="description">
-<strong>Mission 2 : Dashboards Dynamiques (Streamlit)</strong><br>
-Développement de visualisations interactives (cartes, graphiques) pour analyser la performance commerciale et la qualité des données.
-</p>
-<p class="description">
-<strong>Mission 3 : Analyse Prédictive et Modélisation</strong><br>
-Formation de modèles (Random Forest, XGBoost) pour prédire le comportement client, avec une analyse statistique et un échantillonnage des données.
-</p>
-
-<div class="logos">
-<img src="sql-logo.jpg" alt="SQL" class="logo" />
-<img src="python-logo.png" alt="Python" class="logo" />
-</div>
-</div>
-
-<div class="card-stage small-card">
-<div class="card-title-stage">
-<h3>Data analyst Finance</h3>
-</div>
-<div class="card-content-stage">
-<h4>PROBTP</h4>
-<p class="date">Juin - Sep 2023</p>
-<p class="description">
-
-• Developement of a VBA script to automate the reading of PDF files, extract key information, and organize it into structured tables.  
-• Development of a VBA-based tool to track SCPI (Société Civile de Placement Immobilier values, including purchase values, 
-Realization values,subscription prices, etc. 
-</p>
-<div class="logos">
-<img src="vba.png" alt="Excel VBA" class="logo" />
-<img src="SAS.png" alt="SAS" class="logo" />
-</div>
-
+<li>
 </div>
 </div>
 </div>
+</div>
+</div>
+ </main>
 
-
-
-
-
-
+<footer class="subscribe-section">
+<div class="subscribe-container">
+<h2>SUBSCRIBE</h2>
+<p>Sign up with your email address to receive new content.</p>
+<form>
+<input type="text" placeholder="First Name" required>
+<input type="text" placeholder="Last Name" required>
+<input type="email" placeholder="Email Address" required>
+<button type="submit">SIGN UP</button>
+</form>
+<p class="privacy-text">We respect your privacy.</p>
+<div class="social-links">
+<a href="https://www.linkedin.com/in/youssef-dir-798469160/" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+<a href="https://github.com/Dirtoussef" aria-label="Instagram"><i class="fab fa-github"></i></a>
+<a href="mailto:youssefdir37@gmail.com?subject=Contact%20via%20Portfolio&body=Bonjour%20Youssef," aria-label="Email"><i class="far fa-envelope"></i></a>
+</div>
+<p class="contact-info">(585) 286-8783 | youssefdir37@gmail.com</p>
+</div>
+</footer>
+</footer>
+</body>
+</html>
 
 <script>
-// Données pour les diplômes
-const educationData = [
-  {
-    title: "Master's Degree in Business Data Science",
-    institution: "University of Tours",
-    period: "2022 – 2024",
-    logo: "tours.png" // Chemin du logo pour le Master
-  },
-  {
-    title: "Bachelor's Degree in Economics, Data",
-    institution: "University of Tours",
-    period: "2018 – 2022",
-    logo: "tours.png" // Chemin du logo pour le Bachelor
-  }
-];
+  document.addEventListener('DOMContentLoaded', function () {
+    const aboutLeftItems = document.querySelectorAll('.about-left ul li');
 
-let currentIndex = 0; // Index actuel dans le tableau
+    aboutLeftItems.forEach(item => {
+      item.addEventListener('click', function () {
+        const targetId = this.getAttribute('data-target');
+        const targetSection = document.getElementById(targetId);
 
-// Fonction pour mettre à jour l'affichage
-function updateEducation() {
-  const educationTitle = document.getElementById('education-title');
-  const educationInstitution = document.getElementById('education-institution');
-  const educationPeriod = document.getElementById('education-period');
-  const educationLogo = document.getElementById('education-logo');
-
-  // Mettre à jour le contenu avec les données actuelles
-  educationTitle.textContent = educationData[currentIndex].title;
-  educationInstitution.textContent = educationData[currentIndex].institution;
-  educationPeriod.textContent = educationData[currentIndex].period;
-  educationLogo.src = educationData[currentIndex].logo; // Mettre à jour le logo
-}
-
-// Gestionnaire d'événement pour la flèche gauche
-document.querySelector('.left-button').addEventListener('click', () => {
-  currentIndex = (currentIndex - 1 + educationData.length) % educationData.length; // Passer au précédent
-  updateEducation();
-});
-
-// Gestionnaire d'événement pour la flèche droite
-document.querySelector('.right-button').addEventListener('click', () => {
-  currentIndex = (currentIndex + 1) % educationData.length; // Passer au suivant
-  updateEducation();
-});
-
-// Initialisation : afficher le premier diplôme au chargement de la page
-updateEducation();
-
-
-
-function updateEducation() {
-  const educationTitle = document.getElementById('education-title');
-  const educationInstitution = document.getElementById('education-institution');
-  const educationPeriod = document.getElementById('education-period');
-  const educationLogo = document.getElementById('education-logo');
-
-  // Supprimer l'animation pour la relancer
-  educationTitle.classList.remove('slide-animation');
-  educationInstitution.classList.remove('slide-animation');
-
-  // Mettre à jour les données
-  educationTitle.textContent = educationData[currentIndex].title;
-  educationInstitution.textContent = educationData[currentIndex].institution;
-  educationPeriod.textContent = educationData[currentIndex].period;
-  educationLogo.src = educationData[currentIndex].logo;
-
-  // Relancer l'animation après un court délai
-  setTimeout(() => {
-    educationTitle.classList.add('slide-animation');
-    educationInstitution.classList.add('slide-animation');
-  }, 100);
-}
-
-
+        if (targetSection) {
+          targetSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+  });
 </script>
+
