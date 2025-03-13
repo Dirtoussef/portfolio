@@ -691,22 +691,18 @@ ul li {
   height: 6.5% !important; /* Forcer la hauteur automatique */;
   margin-left: -70px !important;
   border-radius: 10px 10px 0 0; /* Coins arrondis uniquement en haut */
-<<<<<<< HEAD
-  top: 5008px;}
-=======
+
   top: 4078px;}
->>>>>>> 2235ac217997a69a5fb966f60535ea072c54e85f
+
 
 .article-image-fifa {
   width: 91.4% !important; /* Forcer la largeur */
   height: 6.5% !important; /* Forcer la hauteur automatique */;
   margin-left: -70px !important;
   border-radius: 10px 10px 0 0; /* Coins arrondis uniquement en haut */
-<<<<<<< HEAD
+
   top: 4366px;}
-=======
-  top: 4346px;}
->>>>>>> 2235ac217997a69a5fb966f60535ea072c54e85f
+
 
 
   .article-image-kpi {
@@ -714,13 +710,9 @@ ul li {
     height: 6% !important; /* Forcer la hauteur automatique */;
     margin-left: -70px !important;
     border-radius: 10px 10px 0 0; /* Coins arrondis uniquement en haut */
-<<<<<<< HEAD
-    top: 3727px;
-=======
-    top: 3707px;
->>>>>>> 2235ac217997a69a5fb966f60535ea072c54e85f
-  }
 
+    top: 3727px;
+  }
 
 
 .article-category {
