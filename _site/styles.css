@@ -688,17 +688,21 @@ ul li {
 
 .article-image-cars {
   width: 91.4% !important; /* Forcer la largeur */
-  height: 6.5% !important; /* Forcer la hauteur automatique */;
+  height: 6% !important; /* Forcer la hauteur automatique */;
   margin-left: -70px !important;
   border-radius: 10px 10px 0 0; /* Coins arrondis uniquement en haut */
-  top: 4998px;}
+
+  margin-top: -15px;}
+
 
 .article-image-fifa {
   width: 91.4% !important; /* Forcer la largeur */
-  height: 6.5% !important; /* Forcer la hauteur automatique */;
+  height: 6% !important; /* Forcer la hauteur automatique */;
   margin-left: -70px !important;
   border-radius: 10px 10px 0 0; /* Coins arrondis uniquement en haut */
-  top: 4356px;}
+
+  margin-top: -15px;}
+
 
 
   .article-image-kpi {
@@ -706,9 +710,9 @@ ul li {
     height: 6% !important; /* Forcer la hauteur automatique */;
     margin-left: -70px !important;
     border-radius: 10px 10px 0 0; /* Coins arrondis uniquement en haut */
-    top: 3717px;
-  }
 
+    margin-top: -5px;
+  }
 
 
 .article-category {
