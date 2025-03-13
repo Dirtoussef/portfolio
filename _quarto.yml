@@ -9,10 +9,10 @@ website:
     left:
       - href: index.qmd
         text: Accueil
-      - href: about.qmd
+      - href: index.qmd#projects 
         text: Projets
     right:
-      - href: resume.qmd
+      - href: cvdata.pdf
         text: Resume
 
 format:
