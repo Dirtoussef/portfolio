@@ -338,7 +338,7 @@ Microeconomics , Excel (VBA ) ,HTML - CSS , Macroeconomics , Mathematiques.
 <a href="https://github.com/Dirtoussef" aria-label="Instagram"><i class="fab fa-github"></i></a>
 <a href="mailto:youssefdir37@gmail.com?subject=Contact%20via%20Portfolio&body=Bonjour%20Youssef," aria-label="Email"><i class="far fa-envelope"></i></a>
 </div>
-<p class="contact-info">(585) 286-8783 | youssefdir37@gmail.com</p>
+<p class="contact-info">| youssefdir37@gmail.com</p>
 </div>
 </footer>
 </footer>
