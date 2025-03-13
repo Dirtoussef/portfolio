@@ -121,72 +121,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="content">
-<div class="card-container">
-<div class="card">
-<div class="card-image" style="margin-bottom: 20px;">
-<iframe id="html-diapo" width="100%" height="400px" src="https://dirtoussef.github.io/Predicting_Price_Cars/R/auto.html">
-</iframe>
-<button id="fullscreen-btn" class="fullscreen-btn">
-Fullscreen
-</button>
-</div>
-<div class="tags">
-<p><span class="tag">RStudio</span> <span class="tag">Python</span> <span class="tag">SQL</span></p>
-</div>
-</div>
-<div class="card">
-<div class="card-image" style="margin-bottom: 20px;">
-<iframe width="100%" height="400px" src="https://www.youtube.com/embed/o9gVYMBb-V0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
-</iframe>
-</div>
-<div class="tags-container">
-<p><span class="tag">Streamlit</span> <span class="tag">Python</span> <span class="tag">SQL</span></p>
-</div>
-</div>
-<div class="card-sentiment">
-<div class="card-image" style="margin-bottom: 20px;">
-<p><a href="https://worldcup-sentiment.streamlit.app/" target="_blank"> <img src="images/francecup.png" alt="Streamlit App" width="100%" height="400px"> </a></p>
-</div>
-<div class="tags-container">
-<p><span class="tag">Streamlit</span> <span class="tag">Python</span> <span class="tag">Data Mining</span></p>
-</div>
-</div>
-<div id="top-left-text" class="card-text-top-left" style="font-size: 0.9em; line-height: 1.6em; text-align: left; padding: 10px; border-left: 4px solid #007BFF; background-color:rgb(12, 12, 12); border-radius: 5px;">
-<p><strong style="color: #007BFF;">Educational Project</strong><br> 📊 Data scraping from Autoscout24,<br> 📈 Comprehensive data analysis<br> and statistical insights,<br> 🤖 Predictive modeling using<br> machine learning techniques<br> (KNN, Random Forest, Boosting),<br> 📑 Presented with clear and<br> structured visualizations.</p>
-</div>
-<!-- Nouvelle carte à gauche -->
-<div id="center-left-text" class="card-text-center-left" style="font-size: 0.9em; line-height: 1.6em; text-align: left; padding: 10px; border-left: 4px solid #28A745; background-color:rgb(12, 12, 12); border-radius: 5px; margin-top: 20px; margin-left: 0;">
-<p><strong style="color: #28A745;">Sentiment Analysis Project</strong><br> 📊 1 million tweets from the World Cup 2018 (Kaggle),<br> 📈 Sentiment analysis,<br> 🤖 Visualization of tweet locations and sentiment by color,<br> 📑 Visualized using Streamlit, including wordcloud generation.</p>
-</div>
-<div id="top-right-text" class="card-text-top-right" style="font-size: 0.9em; line-height: 1.6em; width = 50%; text-align: left; padding: 10px; border-left: 4px solid #28A745; background-color:rgb(10, 10, 10); border-radius: 5px;">
-<p><strong style="color:rgb(31, 49, 254);">End-of-Study Internship</strong><br> 📊 Development of a KPI<br> dashboardusing Streamlit<br> to provideclients with<br> detailed insightsinto<br> their business performance.<br> 💼 Focused on actionable results<br> and user-friendly design.</p>
-</div>
-<svg class="arrow-left" width="200" height="100" style="position: absolute; left: 400px; top: 800px;">
-<defs> <marker id="arrowhead-left" markerwidth="10" markerheight="7" refx="0" refy="3.5" orient="auto"> <polygon points="0 0, 10 3.5, 0 7" fill="#00000"></polygon> </marker> </defs> <line x1="0" y1="50" x2="150" y2="50" stroke="#000000" stroke-width="2" marker-end="url(#arrowhead-left)"></line>
-</svg>
-<script>
-  // Fullscreen functionality
-  const fullscreenBtn = document.getElementById('fullscreen-btn');
-  const htmlDiapo = document.getElementById('html-diapo');
 
-  fullscreenBtn.addEventListener('click', () => {
-    if (htmlDiapo.requestFullscreen) {
-      htmlDiapo.requestFullscreen();
-    } else if (htmlDiapo.mozRequestFullScreen) { // Firefox
-      htmlDiapo.mozRequestFullScreen();
-    } else if (htmlDiapo.webkitRequestFullscreen) { // Chrome, Safari and Opera
-      htmlDiapo.webkitRequestFullscreen();
-    } else if (htmlDiapo.msRequestFullscreen) { // IE/Edge
-      htmlDiapo.msRequestFullscreen();
-    }
-  });
-</script>
-</div>
-
-
-
-</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
