@@ -711,7 +711,7 @@ ul li {
     margin-left: -70px !important;
     border-radius: 10px 10px 0 0; /* Coins arrondis uniquement en haut */
 
-    margin-top: 7px;
+    margin-top: -1px;
   }
 
 
