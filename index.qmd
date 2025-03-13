@@ -88,7 +88,7 @@ promptly for accurate decision-making.</p>
 <div class="circle"></div>
 <div class="description">
 <h4>Predictive analysis and advanced modeling </h4>
-cThe integration of visualization tools such as Plotly and Matplotlib enables the<br> 
+The integration of visualization tools such as Plotly and Matplotlib enables the<br> 
 presentation of valuable insights, including segmentation and business performance.<br> 
 Advanced visualizations are developed, such asinteractive maps to analyze regional<br> 
 audiences, charts for customer segmentation, and performance tracking.Furthermore,<br> 
