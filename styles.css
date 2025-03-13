@@ -910,3 +910,59 @@ a {
   font-size: 0.9em;
   color: #ccc;
 }
+
+/* Media Query pour téléphones */
+@media (max-width: 768px) {
+  .profile-photo {
+    height: 40vh;
+  }
+
+  .photo-text {
+    font-size: 1.5em;
+  }
+
+  .profile-content {
+    padding: 20px;
+  }
+
+  .about-section {
+    flex-direction: column;
+  }
+
+  .about-left, .about-right {
+    width: 100%;
+    padding: 0 10px;
+  }
+
+  .about-right h3, .about-right h4 {
+    margin-left: 0;
+    font-size: 1.2em;
+  }
+
+  .about-right p {
+    font-size: 0.9em;
+  }
+
+  .about-right img {
+    width: 40px;
+    height: auto;
+  }
+
+  .article1-card, .article2-card, .article3-card {
+    max-width: 100%;
+    margin-left: 0;
+  }
+
+  .article-header {
+    height: 200px;
+  }
+
+  .subscribe-section form {
+    flex-direction: column;
+  }
+
+  .subscribe-section input, .subscribe-section button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
