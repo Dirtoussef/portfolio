@@ -70,7 +70,7 @@ The generation of realistic data using the <span style="color: #00AEDB;"> Faker 
 simulation of a dataset tailored for business analyses. This data can then be implemented <br>
 on SQL Server, where relationships betweentables are managed and the structure is optimized for <br>
 efficient access. Once the data is imported, a cleaning process is carried out to handle missing <br>
-values, detectinconsistencies, and prepare the data for in-depth exploratoryanalysis. This ensures <br>
+values, detectin consistencies, and prepare the data for in-depth exploratory analysis. This ensures <br>
 data integrity and facilitates its use in analytical and decision-making contexts.</p>
 </div>
 </div>
